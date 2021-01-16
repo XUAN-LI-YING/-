@@ -1,0 +1,2 @@
+print"hello";
+{% comment %}  哈哈哈   {% endcomment %}
